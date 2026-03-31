@@ -103,7 +103,7 @@ This project presents a **read-only API Security Risk Analysis** conducted on a 
 
 ## Proof of Concept
 
-* Screenshots of tool outputs are available in the Proof of Concept/ folder.
+* Screenshots of tool outputs are available in the `Proof of Concept/` folder.
 
 ---
 
@@ -120,6 +120,7 @@ This analysis was conducted under strict ethical guidelines:
 ## Created
 
 **Yanamadala Syam Nithin**
+
 syamnithin2003@gmail.com
 
 ---
